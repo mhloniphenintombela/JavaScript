@@ -1,2 +1,5 @@
+
+alert("some code");
+// "use strict" below is ignored--it must be at the top
 "use strict";
-// this code works the modern way
+// strict mode is not activated
