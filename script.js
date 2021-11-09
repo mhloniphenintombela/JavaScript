@@ -1,4 +1,2 @@
-/* Commenting out the code
-alert('Hello');
-*/
-alert('World');
+"use strict";
+// this code works the modern way
