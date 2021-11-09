@@ -1,1 +1,1 @@
-alert( 1 / 0 ); // Infinity
+alert( "not a number" / 2 ); // NaN, such division is erroneous
