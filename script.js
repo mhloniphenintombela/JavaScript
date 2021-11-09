@@ -1,6 +1,4 @@
 
-(function() {
-   'use strict';
-   // ...your code...
-   })()
+let message;
+message = 'Hello!';
    
