@@ -1,1 +1,2 @@
-alert( "the result is ${1 + 2}" ); // the result is ${1 + 2} (double quotes do nothing)
+let nameFieldChecked = true; // yes, name field is checked
+let ageFieldChecked = false; // no, age field is not checked
