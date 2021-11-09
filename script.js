@@ -1,2 +1,4 @@
-alert("All fine now");
-[1, 2].forEach(alert)
+/* Commenting out the code
+alert('Hello');
+*/
+alert('World');
