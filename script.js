@@ -1,4 +1,4 @@
 
-let x = 123;
-x = undefined;
-alert(x); // "undefined"
+let name = "Ilya";
+alert( `hello ${1}` ); // ?
+alert( `hello ${"name"}` ); // ?
