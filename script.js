@@ -1,2 +1,1 @@
-
-const myBirthday = '18.04.1982';
+alert( 1 / 0 ); // Infinity
