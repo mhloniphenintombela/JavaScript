@@ -1,5 +1,4 @@
 
- alert( 1 + '2' ); // '12' (string to the right)
- alert( '1' + 2 ); // '12' (string to the left)
-
+alert( 2 - '1' ); // 1
+alert( '6' / '2' ); // 3 
  
