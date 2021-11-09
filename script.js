@@ -1,3 +1,6 @@
 
- let x = 2 * 2 + 1;
- alert( x ); // 5
+ let a, b, c;
+ a = b = c = 2 + 2;
+ alert( a ); // 4
+ alert( b ); // 4
+ alert( c ); // 4
